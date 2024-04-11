@@ -1,0 +1,57 @@
+*{
+    border-radius: 10%;
+    color: white;
+}
+
+
+.DAY{
+    background-color: black;
+    border-left: gold 4px;
+    border-left-style: solid;
+}
+tbody{
+    background-color: #00fffb;
+    margin: 10px;
+}
+
+h1{
+    margin-left: 30px;
+    color: rgb(0,0,60);
+    font-family: futara;
+    font-size: x-large;
+}
+table{
+    align-items: center;
+    text-align: center;
+    align-self: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.tahead{
+    background-color: black;
+    border-top: solid gold 3px;
+
+}
+.tasubhead{
+    background-color: black;
+    border-top: solid rgb(0,255,0) 3px;
+    font-size: 10px;
+}
+
+.lec{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+
+.lec:hover{
+    font-size: large;
+    text-shadow: black;
+    background-color: gold;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+
+
